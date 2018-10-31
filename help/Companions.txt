@@ -1,0 +1,4 @@
+@What are companions?
+Companions are any follower, minion, or pet obtained through items, buffs, or skills. You can easily identify them by them having a health bar. Orbital enchants etc are not considered companions.
+@What stats affect my companions?
+Your companion's Damage and Health is directly based on your own Damage and Health stats, by the indicated percentages on the skill/item. This is then multiplied by the "Companion Health" and "Companion Damage" stats. Companions also use your Elemental Damage, Resistances, Crit Chance, Crit Damage, Overpower, Cooldown Reduction, Attack Speed, and Movement Speed stats.

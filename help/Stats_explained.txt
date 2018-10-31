@@ -1,0 +1,88 @@
+@Health
+How much damage you can take before you die.
+@Mana
+This is a resource that is drained when you use skills.
+@Damage
+This is your base damage, elemental bonuses are applied on top of this number.
+@Attack Speed
+This is how fast you will be able to attack. It affects the animation speed of your attacks, so skills with low cooldown can be performed faster. It also allows you to move sooner after attacking, as the animation completes faster.
+@Overpower
+This is a resistance piercing stat, for example an Overpower value of 50% will ignore 50% of all foes resistances. (Meaning a foe with 30% Fire Resistance will be treated as if having 15%)
+@Reach
+This stat increases the effective range, radius, and distance used by all skills
+@Rage (Berserker Only)
+Rage is a unique stat used by the Berserker. It increases when you take damage, deal damage, and kill foes. Gibbing foes add extra Rage, too! Rage will improve some passive skills and the Berserker's special "Heritage" skills. Rage fades slowly over time.
+@Souls (Warlock only)
+Souls is a unique stat used by the Warlock. You collect Souls by killing foes, and can sacrifice them to activate Utility skills, or hold on to them to empower some passive skills. Souls fade over time!
+@Damage Reduction
+Reduces damage taken from all sources, scales multiplicatively rather than additively.
+@Evasion
+Evasion gives a chance to completely avoid damage from most direct hits. It is primarily used by the Warden and Warlock. Scales multiplicatively rather than additively.
+@Damage Stagger
+This is a special stat that deals some of the damage recieved over 3 seconds rather than instantly, giving you an increased time to recover from damage. Scales multiplicatively rather than additively.
+@Block Rate and Damage Blocked (Templar Only)
+These stats indicate your chance to block an attack, and if you block, how much the damage is reduced. Any attack can be blocked as long as you have a Shield equipped!
+@Critical Hit Chance
+This indicates how high your chance is to score a Critical Hit, dealing extra damage.
+@Critical Hit Damage
+This indicates how much damage your Critical Hits will do in comparison to regular strikes.
+@Movement Speed
+This is how fast you can run.
+@Elemental Damage stats (Physical, Fire, Frost, etc..)
+These stats show how much extra damage you do with skills of certain elements.
+@What is "Ethereal Damage"?
+This is a special damage type typically found on True Legendary items' special powers. It ignores all enemy resistances and benefits from your strongest Elemental Damage stat. This means it works for all builds and can be very, very powerful!
+Note: Bleed damage is considered Ethereal in the sense that it's not resistible, altough it does not benefit from elemental powers.
+@Thorns
+This is a special damage stat that is dealt to enemies when they strike you. Thorns is considered to be Physical damage unless otherwise specified. Thorns damage can also crit.
+@Health per second
+How much Health you restore per second
+@Mana per second
+How much Mana you restore per second
+@Health on hit
+How much Health you restore on a hit, minimum. The larger your hit, the more you will restore. Note that Health on hit has a cooldown of 0.1 seconds.
+@Mana on hit
+How much Mana you restore on a hit, minimum. The larger your hit, the more you will restore. Note that Mana on hit has a cooldown of 0.1 seconds.
+@Potion Effectiveness
+How effective your Healing and Mana potions are. Increase this number and they will heal you more!
+@Knockback Chance
+How high your chance is per strike to knock away foes.
+@Resistances (Physical, Fire, Frost, etc.)
+These stats show how much less damage you take from all sources of the matching element. Note that all resistances are capped at 80%.
+@Cooldown Reduction
+How much time is removed from your skill cooldowns. Caps at 90%. Scales multiplicatively rather than additively.
+@Mana Cost Reduction
+How much of the Mana cost is removed from your skill usage. Scales multiplicatively rather than additively.
+@Effect Duration
+How long buffs (positive effects) and spells will last. No cap, but scales multiplicatively rather than additively.
+@Pickup Strength
+This stat affects how much Health- and Mana pickups will heal you.
+@Pickup Radius
+This stat affects the distance of which Health, Mana, and Crystal pickups will be automatically taken. Your companions also use this stat when picking up pickups!
+This stat also increases the range of Radial Loot (default key: Q)
+@Crystals Found
+This stat increases the amount of Crystals you gain from all sources except vendors.
+@Magic Find
+This stat increases the likelihood that you will find more rare items and items fitting your class. It caps off at 999%.
+@Light Radius
+This stat affects the light surrounding your character.
+@Experience Gained
+This stat affects how much Experience you gain from all sources. This affects both regular levels and Mastery levels.
+@Companion Health
+This stat directly increases the Health stat of all your Companions.
+@Companion Damage
+This stat directly affects the Damage stat of all your Companions.
+@Burn Damage
+This stat is a special damage stat for items which may cause a Burn damage effect on foes. It is considered Fire damage and is increased by the Fire Damage stat, too. NOTE: This stat does not affect skills which cause Burn effects.
+@Bleed Damage
+This stat is a special damage stat for items which may cause a Bleed damage effect on foes. It is considered Ethereal damage but is NOT improved by any elemental stats. NOTE: This stat does not affect skills which cause Bleeding effects.
+@Chill Damage
+This stat is a special damage stat for items which may cause additional Frost damage on foes instantly. It is increased by the Frost damage stat, too. NOTE: This stat does not affect skills which cause Chill effects.
+@Poison DOT Damage
+This stat is a special damage stat for items which may cause a Poison damage effect on foes. It is considered Poison damage and is increased by the Poison Damage stat, too. NOTE: This stat does not affect skills which cause Poison effects.
+@Chain Lightning Damage
+This stat is a special damage stat for items which may cause additional Lightning damage on foes instantly. It is increased by the Lightning damage stat, too.
+@Satellite Damage
+Increases the damage of all Satellite type enchants
+@Gem Strength
+Increases the strength of all gems socketed into your equipment
